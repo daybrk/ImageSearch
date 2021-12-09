@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImageFound</string>
+    <string name="image_item">ImageFromSearch</string>
+
+    <string name="action_settings">Search</string>
+    <string name="search_item">Search</string>
+</resources>
